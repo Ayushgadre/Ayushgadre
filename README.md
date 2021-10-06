@@ -46,7 +46,7 @@
  
 <a href="mailto:ayushgadre786@gmail.com"><img src="https://image.flaticon.com/icons/svg/281/281769.svg" width="40"></a>|<a href="https://www.linkedin.com/in/ayushgadre/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="https://twitter.com/ayush_gadre"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-128.png" width="40"></a>|<a href="https://www.instagram.com/ayush__gadre/"><img ></a>
 |--|--|--|--|--|--|--|
-![](https://activity-graph.herokuapp.com/graph?username=SunitRoy2703&theme=react-dark&hide_border=true&area=true)
+![](https://activity-graph.herokuapp.com/graph?username=Ayushgadre&theme=react-dark&hide_border=true&area=true)
  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayushgadre&show_icons=true&locale=en" alt="Ayush" /></p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunitroy2703" width="400px">
