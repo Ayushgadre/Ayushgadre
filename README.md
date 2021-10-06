@@ -58,13 +58,3 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ayushgadre-06&label=Profile%20views&color=0e75b6&style=flat" alt="Ayushgadre"> </p>
-
-
-
-<h2 align="left"> What I am Doing? </h2>
-
-
-<h3>🔭 I’m currently working on improving my problem solving skills<h3>
-
-<h3>📑 I'm Currently Learning DSA </h3>
