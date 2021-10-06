@@ -1,6 +1,12 @@
+<p>
+    <img align="left" src="https://user-images.githubusercontent.com/67560900/107698101-10797e00-6cda-11eb-8357-b7808d66151a.gif" width="310px" alt="hellogif">
+   </p>
+   <h1 align="center"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40px"/>  I'm <a href="https://github.com/Ayushgadre" target="_blank">Ayush Gadre</a>. Nice to see you.🤗 </h1> 
+   
 
-<h3 align="center"> </h3>
-<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Ayush Gadre</h1>
+    # I'm From Indore, India.
+
+
 
 <h1>About Me</h1>
 
@@ -31,10 +37,20 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://www.linkedin.com/in/ayushgadre/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Ayush" height="30" width="40" /></a>
-<a href="https://www.instagram.com/ayush__gadre/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Ayush" height="30" width="40" /></a>
-<a href="https://twitter.com/ayush_gadre" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Ayush" height="30" width="40" /></a>
-<a href="https://www.facebook.com/ayushgadre786" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Ayush" height="30" width="40" /></a>
+<img align="center" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
+<br>
+<br>
+
+<a href="mailto:ayushgadre786@gmail.com"><img src="https://image.flaticon.com/icons/svg/281/281769.svg" width="40"></a>|
+<a href="https://www.linkedin.com/in/ayushgadre/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>
+|<a href="https://twitter.com/ayush_gadre"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-128.png" width="40"></a>
+|<a href="https://www.instagram.com/ayush__gadre/"><img src="https://github.com/Ayushgadre/Ayushgadre/blob/main/assets/Instagram_logo_2016.svg" width="45"></a>|
+|--|--|--|--|--|--|--|
+
+
+![](https://activity-graph.herokuapp.com/graph?username=Ayushgadre&theme=react-dark&hide_border=true&area=true)
+
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ayushgadre-06&label=Profile%20views&color=0e75b6&style=flat" alt="Ayushgadre"> </p>
@@ -49,3 +65,4 @@
 <h3>📑 I'm Currently Learning DSA </h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayushgadre&show_icons=true&locale=en" alt="Ayush" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunitroy2703" width="400px">
