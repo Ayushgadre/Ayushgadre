@@ -5,7 +5,7 @@
 <h1>About Me</h1>
 
 <p>
-🎓 I'm a programming enthusiast & a sophomore pursuing my Bachelors for IET </p>
+🎓 I'm a programming enthusiast & a sophomore pursuing my Bachelors from IET </p>
 <p>
 👨‍💻 I am passionate about Web Development and programming </p>
 <p>📫 How to reach me **ayushgadre786@gmail.com**</p>
