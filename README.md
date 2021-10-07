@@ -55,4 +55,4 @@ href="https://www.instagram.com/ayush__gadre/"><img src="https://edent.github.io
 ![](https://activity-graph.herokuapp.com/graph?username=Ayushgadre&theme=react-dark&hide_border=true&area=true)
  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayushgadre&show_icons=true&locale=en" alt="Ayush" /></p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunitroy2703" width="400px">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushgadre" width="400px">
