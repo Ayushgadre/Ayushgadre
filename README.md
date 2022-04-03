@@ -15,7 +15,7 @@
 <p>📫 How to reach me **ayushgadre786@gmail.com**</p>
 
 
-<h3> Skills: HTML , CSS , JS , C , C++ </h3>
+<h3> Skills: HTML , CSS , JS , C , C++ , PHP </h3>
 <span>
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
