@@ -47,8 +47,8 @@
 ### 📫 Connect with me
 <img align="center" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
  
-<a href="mailto:ayushgadre786@gmail.com"><img src="https://image.flaticon.com/icons/svg/281/281769.svg" width="40"></a>  <a
-href="https://www.linkedin.com/in/ayushgadre/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>  <a 
+
+<a href="https://www.linkedin.com/in/ayushgadre/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>  <a 
 href="https://twitter.com/ayush_gadre"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-128.png" width="40"></a>  <a 
 href="https://www.instagram.com/ayush__gadre/"><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="40"></a>
  
