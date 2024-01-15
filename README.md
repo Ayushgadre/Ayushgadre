@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi there, I'm <a href="https://github.com/Ayushgadre" target="_blank">Ayush Gadre</a>! <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40px"/> Nice to meet you. 🤗</h1>
 
-<h3 align="center">🎓 Sophomore at Institute of Engineering & Technology DAVV, Indore, India.</h3>
+<h3 align="center">🎓 Final Year at Institute of Engineering & Technology DAVV, Indore, India.</h3>
 
 <h2>About Me</h2>
 
@@ -17,17 +17,21 @@
   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <br>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white "/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white "/>
   <img src="https://img.shields.io/badge/react.js%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img src="https://img.shields.io/badge/node.js%20-%2320232a.svg?&style=for-the-badge&logo=node.js&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/mongodb%20-%234DB33D.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mysql%20-%230075A8.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/sql%20-%23121011.svg?&style=for-the-badge&logo=sql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/vscode%20-%23007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
 <h2>What I'm Doing</h2>
 
-<h3>🔭 Currently working on improving my problem-solving skills.</h3>
-<h3>📑 Currently learning Data Structures and Algorithms.</h3>
+<h3 align="center">🔭 Currently working on improving my problem-solving skills.</h3>
+<h3 align="center">📑 Currently working on Full Stack Development.</h3>
 
 <h2>Connect with Me</h2>
 
