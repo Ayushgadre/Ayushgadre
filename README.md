@@ -9,7 +9,7 @@
 <h2>About Me</h2>
 
 <p align="center">👨‍💻 Programming enthusiast passionate about Web Development and problem-solving.</p>
-<p align="center">📫 Reach me at <strong>ayushgadre786@gmail.com</strong></p>
+<p align="center">📫 Reach me at <strong><a href="mailto:ayushgadre786@gmail.com">ayushgadre786@gmail.com</a></strong></p>
 
 <h2>Skills</h2>
 
