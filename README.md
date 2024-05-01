@@ -43,7 +43,7 @@
   <a href="https://www.instagram.com/ayush__gadre/"><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="40"></a>
 </p>
 
-<p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=Ayushgadre&theme=react-dark&hide_border=true&area=true" alt="Ayush's GitHub Activity Graph"></p>
+
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Ayushgadre&show_icons=true&locale=en" alt="Ayush's GitHub Stats"></p>
 
