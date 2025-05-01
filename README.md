@@ -4,11 +4,11 @@
 
 <h1 align="center">Hi there, I'm <a href="https://github.com/Ayushgadre" target="_blank">Ayush Gadre</a>! <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40px"/> Nice to meet you. 🤗</h1>
 
-<h3 align="center">🎓 Final Year at Institute of Engineering & Technology DAVV, Indore, India.</h3>
+<h3 align="center">🎓 Graduate from Institute of Engineering & Technology, Indore, India.</h3>
 
 <h2>About Me</h2>
 
-<p align="center">👨‍💻 Programming enthusiast passionate about Web Development and problem-solving.</p>
+<p align="center">👨‍💻 Programming enthusiast passionate about Web Development and problem-solving. I am currently working as a <strong>Software Developer (Backend Developer)</strong>.</p>
 <p align="center">📫 Reach me at <strong><a href="mailto:ayushgadre786@gmail.com">ayushgadre786@gmail.com</a></strong></p>
 
 <h2>Skills</h2>
@@ -25,6 +25,12 @@
   <img src="https://img.shields.io/badge/mysql%20-%230075A8.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/postgresql%20-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/sql%20-%23121011.svg?&style=for-the-badge&logo=sql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/java%20-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/springboot%20-%236DB33F.svg?&style=for-the-badge&logo=spring-boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/kafka%20-%23000000.svg?&style=for-the-badge&logo=apache-kafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/redis%20-%23DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/vscode%20-%23007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST APIs-005571?style=for-the-badge"/>
@@ -32,8 +38,8 @@
 
 <h2>What I'm Doing</h2>
 
-<h3 align="center">🔭 Currently working on improving my problem-solving skills.</h3>
-<h3 align="center">📑 Currently working on Full Stack Development.</h3>
+<h3 align="center">🔭 Currently working as a <strong>Software Developer (Backend Developer)</strong>.</h3>
+<h3 align="center">📑 Building scalable backend systems and sharpening my problem-solving skills.</h3>
 
 <h2>Connect with Me</h2>
 
@@ -42,8 +48,6 @@
   <a href="https://twitter.com/ayush_gadre"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-128.png" width="40"></a>
   <a href="https://www.instagram.com/ayush__gadre/"><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="40"></a>
 </p>
-
-
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Ayushgadre&show_icons=true&locale=en" alt="Ayush's GitHub Stats"></p>
 
